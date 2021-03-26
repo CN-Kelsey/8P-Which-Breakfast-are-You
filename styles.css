@@ -1,0 +1,26 @@
+body {
+    font-family: 'Questrial', sans-serif;
+    background-color: #ffffcc;
+    text-align: center;
+}
+
+.cereal {
+    display: none;
+    width: 50%;
+
+}
+
+.pancakes {
+    display: none;
+    width: 50%;
+}
+
+.breakfast-sandwich {
+    display: none;
+    width: 50%;
+}
+
+.bagel {
+    display: none;
+    width: 50%;
+}
